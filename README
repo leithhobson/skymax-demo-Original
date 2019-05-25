@@ -2,10 +2,9 @@
 skymax
 --------------------------------------------------------------------------------------
 This project was forked from manio/skymax-demo on git since it allows me to query my
-own EASunPower solar inverter.  Apparently, from what I gather on internet forums, a
-company in Taiwan called Voltronic Power sells a hardware platform used in many
-different brands of inverter.  And my brand just happens to be one of those Voltronic
-clones so all the same commands apply.
+own Axpert solar inverter. A company in Taiwan called Voltronic sells a hardware plat-
+form used in many different brands of inverter. My brand just happens to be one of
+those Voltronic clones so all the same commands apply.
 
 --------------------------------------------------------------------------------------
 compilation / running
